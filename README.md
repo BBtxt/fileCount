@@ -38,7 +38,8 @@ To use fileCount, simply run the executable from the command line, followed by t
 Replace /path/to/directory with the actual path of the directory you wish to scan.
 
 The tool will output a list of file extensions found in the directory along with the count of files for each extension.
-Example
+
+## Example
 
 Running fileCount on a directory might produce output like this:
 
